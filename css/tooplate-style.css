@@ -252,8 +252,22 @@ p {
 		min-height: 100%;
 	}
 }
-.tm-section-title tm-section-title-big text-xs-center tm-text-black{
+/* .tm-section-title tm-section-title-big text-xs-center tm-text-black{
 	color: white;
 	background-color: white;
-}
+} */
 /* --------------------------------------------------------------- */
+.texttext{
+		color: white;
+	/* border: 1px solid black; */
+	align-items: center;
+	display: flex;
+	justify-content: center;
+
+	-webkit-text-stroke-width: 2px;
+   -webkit-text-stroke-color: black;
+   font-size: 35px;
+}
+.bodybody{
+	color: sandybrown;
+}
